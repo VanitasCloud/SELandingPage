@@ -2,6 +2,8 @@
 
 Welcome to the Square Enix landing page repository! This project showcases a modern landing page inspired by Square Enix, utilizing HTML, CSS, and a touch of JavaScript. It leverages contemporary CSS3 techniques like Grid, Flexbox, overlays, shadows, etc., to create an immersive user experience.
 
+Coming soon: log-in site, preview pics!
+
 ## Preview
 coming soon!
 
